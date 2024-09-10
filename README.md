@@ -14,7 +14,7 @@
   <img align="center" alt= "Django"src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div><br/>
 
-Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e inovação, Sempre em busca de novos desafios e aprendizados para transformar ideias em soluções. Pronto para contribuir e crescer no mundo da programação.
+Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados para transformar ideias em soluções. Pronto para contribuir e crescer no mundo da programação.
 
 ### Email para contato:
 ryaanfeliipe22@gmail.com
