@@ -4,7 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryaanf)
 
 
-![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=devryan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanfelipedev&show_icons=true&theme=tokyonight)
+
 
 ### Tecnologias presentes no meu dia 🧑🏽‍💻.
 
